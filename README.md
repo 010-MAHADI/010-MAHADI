@@ -11,8 +11,6 @@
 
 💻 **Computer Science Engineering Student | Programmer**
 
-🔒 **Cybersecurity Enthusiast**
-
 ---
 
 Hi there! I'm MD MAHADI HASAN, a 19-year-old passionate about technology and programming. As a computer science engineering student, I have honed my skills in various programming languages And AI. I'm always eager to learn more and contribute to the tech community.
